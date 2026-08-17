@@ -1,0 +1,9 @@
+# ninja log v7
+1	27	1786948327851921938	CMakeFiles/registro-service.dir/src/Generics/Entiy.cpp.o	7c1078ddaa56526a
+1	251	1786948327852113119	CMakeFiles/registro-service.dir/src/Models/RegistroModel.cpp.o	c6abec6da094cfed
+1	284	1786948327851750263	CMakeFiles/registro-service.dir/src/DBConfig/DBConfig.cpp.o	589b4e3ba0ac09b1
+1	1584	1786948364604588515	CMakeFiles/registro-service.dir/src/Repositories/RegistroRepository.cpp.o	d12b45c0449e3f8b
+1	3042	1786948364603922383	CMakeFiles/registro-service.dir/src/Controllers/RegistroController.cpp.o	233538b560e4a7b9
+1	6207	1786948364604856151	CMakeFiles/registro-service.dir/src/main.cpp.o	63ac9ad1084f5c2c
+2	180	1786948431851744088	CMakeFiles/registro-service.dir/src/Services/RegistroService.cpp.o	f06424a813662069
+180	421	1786948432029746222	registro-service	4caf6a938a656d0

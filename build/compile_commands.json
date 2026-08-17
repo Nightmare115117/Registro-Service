@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/Controllers/RegistroController.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Controllers/RegistroController.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Controllers/RegistroController.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/Controllers/RegistroController.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/DBConfig/DBConfig.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/DBConfig/DBConfig.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/DBConfig/DBConfig.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/DBConfig/DBConfig.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/Generics/Entiy.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Generics/Entiy.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Generics/Entiy.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/Generics/Entiy.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/Models/RegistroModel.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Models/RegistroModel.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Models/RegistroModel.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/Models/RegistroModel.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/Repositories/RegistroRepository.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Repositories/RegistroRepository.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Repositories/RegistroRepository.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/Repositories/RegistroRepository.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/Services/RegistroService.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Services/RegistroService.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/Services/RegistroService.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/Services/RegistroService.cpp.o"
+},
+{
+  "directory": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build",
+  "command": "/usr/bin/g++ -DASIO_NO_DEPRECATED -DASIO_STANDALONE -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src -I/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-src/include -g -std=gnu++20 -o CMakeFiles/registro-service.dir/src/main.cpp.o -c /home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/main.cpp",
+  "file": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/src/main.cpp",
+  "output": "/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/CMakeFiles/registro-service.dir/src/main.cpp.o"
+}
+]
