@@ -18,4 +18,5 @@ public:
     bool remove (int id) override;
 
     int countById() const;
+    //xd
 };
