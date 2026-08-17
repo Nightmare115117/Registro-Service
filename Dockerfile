@@ -25,4 +25,4 @@ RUN rm -rf build && mkdir build && cd build && \
     cmake --build . -j$(nproc)
 
 EXPOSE 8080
-CMD ["./build/mi_api"]
+CMD ["./build/registro-service"]
