@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/cmake_install.cmake",
-		"/home/iron/Proyectos/SistemaRegistroHackaton/MicroServicios/Registro/build/_deps/crow-build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
